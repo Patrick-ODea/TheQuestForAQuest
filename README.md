@@ -3,7 +3,7 @@
 
 
 To run the game right now add files to a project folder in pycharm or other editor. 
-As of right now, the first commit you will need to run questtest.py and the game is start.
+As of right now, the first commit you will need to run questtest.py and the game will start.
 
 
 Thank you for taking the time to readme.
